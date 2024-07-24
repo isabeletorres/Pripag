@@ -43,7 +43,7 @@ h4{
 
 p {
     text-align:center;
-    width: 40%;
+    /*width: 40%;*/
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
