@@ -29,7 +29,7 @@ h3{
 }
 h4{
     text-align:center;
-    font-size: 2x; 
+    font-size:medium ; 
     padding: 1px;
     border: solid black;
     border-radius: 5px;
@@ -42,8 +42,8 @@ h4{
 }
 
 p {
-    /text-align:center;/
-    /width: 40%;/
+    text-align:center;
+    width: 40%;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -89,4 +89,14 @@ p {
   
   color: rgba(255, 255, 255, 0.827);
   font-size: 20px;
+}
+textarea {
+    color: gray;
+    
+}
+button{
+    text-align: center;
+    background-color: white;
+    background-position: center center;
+    color: black
 }
